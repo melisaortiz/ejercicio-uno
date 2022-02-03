@@ -1,0 +1,1 @@
+Estamos haciendo el primer ejercicio de la guía de Git
